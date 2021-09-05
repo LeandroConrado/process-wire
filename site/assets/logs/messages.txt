@@ -1,0 +1,8 @@
+2021-09-05 12:09:51	guest	https://processwire.imagilabdeveloper.ga/processwire/login/	Added 'filesize' to DB schema for 'images' (FieldtypeImage)
+2021-09-05 12:09:51	guest	https://processwire.imagilabdeveloper.ga/processwire/login/	Added 'created_users_id' to DB schema for 'images' (FieldtypeImage)
+2021-09-05 12:09:51	guest	https://processwire.imagilabdeveloper.ga/processwire/login/	Added 'modified_users_id' to DB schema for 'images' (FieldtypeImage)
+2021-09-05 12:09:51	guest	https://processwire.imagilabdeveloper.ga/processwire/login/	Added 'filedata' to DB schema for 'images' (FieldtypeImage)
+2021-09-05 12:09:51	guest	https://processwire.imagilabdeveloper.ga/processwire/login/	Added 'width' to DB schema for 'images' (FieldtypeImage)
+2021-09-05 12:09:51	guest	https://processwire.imagilabdeveloper.ga/processwire/login/	Added 'height' to DB schema for 'images' (FieldtypeImage)
+2021-09-05 12:09:51	guest	https://processwire.imagilabdeveloper.ga/processwire/login/	Added 'ratio' to DB schema for 'images' (FieldtypeImage)
+2021-09-05 12:39:54	admin	https://processwire.imagilabdeveloper.ga/	Updating schema version of 'comments' from 6 to 7 (FieldtypeComments)

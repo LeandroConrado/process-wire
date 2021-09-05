@@ -1,0 +1,17 @@
+2021-09-05 12:09:41	Update #16: Initializing update
+2021-09-05 12:09:41	Update #16: Completed!
+2021-09-05 12:09:47	Update #17: Initializing update
+2021-09-05 12:09:47	Update #17: Skipped: /site/.htaccess (already exists)
+2021-09-05 12:09:47	Update #17: Created: /site/assets/.htaccess
+2021-09-05 12:09:47	Update #17: Skipped: /site/assets/cache/.htaccess (already exists)
+2021-09-05 12:09:47	Update #17: Skipped: /site/assets/backups/.htaccess (already exists)
+2021-09-05 12:09:47	Update #17: Skipped: /site/assets/logs/.htaccess (already exists)
+2021-09-05 12:09:47	Update #17: Created: /site/templates/.htaccess
+2021-09-05 12:09:47	Update #17: Created: /site/modules/.htaccess
+2021-09-05 12:09:47	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2021-09-05 12:09:47	Update #17: Completed!
+2021-09-05 12:09:51	Update #18: Initializing update
+2021-09-05 12:09:51	Update #18: Completed!
+2021-09-05 12:09:52	Update #19: Initializing update
+2021-09-05 12:09:52	Update #19: Removed 3 redundant modules table entries
+2021-09-05 12:09:52	Update #19: Completed!
